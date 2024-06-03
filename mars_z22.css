@@ -1,0 +1,15 @@
+
+p {
+color: red;
+font-size: 22pt;
+}
+p#gruby_wylandowski { 
+color: green;
+font-size: 17pt;
+font-weight: 900;
+}
+p#dlawszystkich_wylandowski {
+color: yellow;
+font-size: 10pt;
+font-family: Arial;
+}
